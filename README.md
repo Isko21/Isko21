@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Suhan Park</h1>
-<h3 align="center">AI enthusiast, Korean, student, and challenger</h3>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Iskhak Suranov</h1>
+<h3 align="center">Incoming Software Engineer, Kyrgyz, student, and challenger</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
 
@@ -8,19 +8,17 @@
 
 - 🔭 I’m currently working on **expanding my knowlege in CS** 
 
-- 🌱 I’m currently learning **ML/DL** 🤖
+- 🌱 I’m currently learning everything
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/suhanpark)
-
-- 🏠 My website is [suhanpark.com](www.suhanpark.com)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Isko21)
 
 - 💬 Ask me about **anything that I can answer**
 
-- 📫 How to reach me **simon7233@gmail.com**
+- 📫 How to reach me **iskhaksuranov@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/suhan-park-b4a72413a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzJUI%2FOXXRgevDFNL%2FLpEEA%3D%3D)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iskhaksuranov/)
 
-- ⚡ Fun fact **I love hedgehogs** 🦔
+- ⚡ Fun fact **I love fishing** 🎣
 
 </details>
  
@@ -28,11 +26,7 @@
 <summary>Contact</summary>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://dev.to/suhanpark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/11940958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11940958" height="30" width="40" /></a>
-<a href="https://codesandbox.com/suhanpark" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="suhanpark" height="30" width="40" /></a>
+
 <a href="https://kaggle.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suhanpark" height="30" width="40" /></a>
 <a href="https://instagram.com/suhanpark_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanpark_01" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suhanpark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhanpark" height="30" width="40" /></a>
