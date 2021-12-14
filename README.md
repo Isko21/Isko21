@@ -64,7 +64,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isko21&show_icons=true&locale=en&layout=compact" alt="isko21" /></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suhanpark&show_icons=true&hide_border=true" alt="animated" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isko21&show_icons=true&hide_border=true" alt="animated" />
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhanpark&" alt="suhanpark" /></p>
