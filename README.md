@@ -68,6 +68,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=isko21&show_icons=true&hide_border=true" alt="animated" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isko21&theme=blue-green" alt="animated" />
+</p>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isko21&" alt="isko21" /></p>
 
 <h3 align="center">Feeding the snake with my contribution graph</h3>
