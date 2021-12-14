@@ -25,12 +25,11 @@
 <summary>Contact</summary>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
-<a href="https://instagram.com/21.iskhak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suhanpark_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iskhaksuranov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iskosstyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/isk21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suhanpark" height="30" width="40" /></a>
-<a href="https://discord.gg/Suhan Park/박수한#9416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Suhan Park/박수한#9416" height="30" width="40" /></a>
+<a href="https://instagram.com/21.iskhak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="21.iskhak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iskhaksuranov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Iskhak Suranov" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/iskosstyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iskosstyle" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/isko21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Isko21" height="30" width="40" /></a>
+<a href="https://discord.gg/Iskhak Suranov/#4353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 </details>
 
