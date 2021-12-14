@@ -71,5 +71,5 @@
 
 <h3 align="center">Feeding the snake with my contribution graph</h3>
 
-   ![snake gif](https://github.com/suhanpark/suhanpark/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/isko21/isko21/blob/output/github-contribution-grid-snake.gif)
 </details>
