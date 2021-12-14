@@ -61,7 +61,7 @@
   
 <details open>
 <summary>Milestone</summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhanpark&show_icons=true&locale=en&layout=compact" alt="suhanpark" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isko21&show_icons=true&locale=en&layout=compact" alt="isko21" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhanpark&show_icons=true&hide_border=true" alt="animated" />
