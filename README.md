@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Iskhak Suranov</h1>
 <h3 align="center">Incoming Software Engineer, Kyrgyz, student, and challenger</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=suhanpark&label=Profile%20views&color=0e75b6&style=flat" alt="suhanpark" /> </p>
 
 <details open>
 <summary>BIO</summary>
