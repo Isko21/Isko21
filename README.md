@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iskhaksuranov/)
 
-- ⚡ Fun fact **I love playing pool 🎱, and fishing** 🎣![FiskaFishingGIF](https://user-images.githubusercontent.com/76448222/160962288-25352d0d-86f7-4ed5-b7e1-f9611716539b.gif)
+- ⚡ Fun fact **I love playing pool 🎱, and fishing** 🎣
 
 
 </details>
