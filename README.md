@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Iskhak Suranov</h1>
-<h3 align="center">Software Engineer, Kyrgyz, student, and challenger</h3>
+<h3 align="center">Software Engineer 💻, Kyrgyz 🇰🇬, student 🧑‍🎓, and challenger</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
 
 
@@ -18,7 +18,8 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iskhaksuranov/)
 
-- ⚡ Fun fact **I love fishing** 🎣
+- ⚡ Fun fact **I love playing pool 🎱, and fishing** 🎣![FiskaFishingGIF](https://user-images.githubusercontent.com/76448222/160962288-25352d0d-86f7-4ed5-b7e1-f9611716539b.gif)
+
 
 </details>
  
