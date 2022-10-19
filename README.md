@@ -20,8 +20,6 @@
 
 
 </details>
-
-<img align='center' width="" src="/github-metrics.svg" alt="Metrics" >
  
 <details open>
 <summary>Contact</summary>
