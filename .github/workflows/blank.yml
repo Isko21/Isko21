@@ -14,7 +14,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
           base: ""
           config_display: large
           plugin_languages: yes
@@ -26,7 +26,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: general.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
           base: header
           plugin_topics: yes
           plugin_topics_limit: 0
@@ -41,7 +41,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ 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 }}
           base: ""
           plugin_isocalendar: yes
           plugin_habits: yes
