@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer 💻, Kyrgyz, student, and challenger</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
 
+![Metrics](https://github.com/Isko21/Isko21/blob/main/github-metrics.svg)
 
 <details open>
 <summary>BIO</summary>
