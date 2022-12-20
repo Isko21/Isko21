@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Iskhak Suranov</h1>
-<h3 align="center">Software Engineer 💻, Kyrgyz, student, and challenger</h3>
+<h3 align="center">CS student 💻, and Mobile App Developer 📱</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
 
 ![Metrics](https://github.com/Isko21/Isko21/blob/main/github-metrics.svg)
