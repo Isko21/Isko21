@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iskhaksuranov/)
 
-- ⚡ Fun fact **I love playing pool 🎱, and fishing** 🎣
+- ⚡ Fun facts **I love playing pool 🎱, and fishing** 🎣
 
 
 </details>
