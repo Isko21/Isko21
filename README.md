@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iskhak Suranov</h1>
-<h3 align="center">CS student 💻, and Mobile App Developer 📱</h3>
+<h3 align="center">CS student 💻, Retro Music Lover 🎵, YouTuber 🎥, and Mobile App Developer 📱</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
-<!-- <div style="display:flex;flex-direction:row;"> -->
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"></img></p>
+<p align="center"><a href="https://www.youtube.com/@doyourememberit"><img src="https://youtube-stats-card.vercel.app/api?channelid=UCKP6ezsWMNsovDGRJY0sAbQ&theme=dark&cache_seconds=86400"></a></p>
 
 ## 👨‍💻 About me
 
