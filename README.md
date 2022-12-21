@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Iskhak Suranov</h1>
 <h3 align="center">CS student 💻, and Mobile App Developer 📱</h3>
 
-<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"></img></p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
-
-![Metrics](https://github.com/Isko21/Isko21/blob/main/github-metrics.svg)
+<!-- <div style="display:flex;flex-direction:row;"> -->
+<p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"></img></p>
 
 <details open>
 <summary>BIO</summary>
@@ -21,7 +19,6 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/iskhaksuranov/)
 
 - ⚡ Fun facts **I love playing pool 🎱, and fishing** 🎣
-
 
 </details>
  
@@ -51,13 +48,14 @@
   
 <details open>
 <summary>Milestone</summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isko21&show_icons=true&locale=en&layout=compact" alt="isko21" /></p>
+ 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=isko21&show_icons=true&locale=en&layout=compact" alt="isko21" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=isko21&show_icons=true&hide_border=true" alt="animated" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isko21&" alt="isko21" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isko21&show_icons=true&hide_border=true" alt="animated" />
-</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isko21&" alt="isko21" /></p>
+
+![Metrics](https://github.com/Isko21/Isko21/blob/main/github-metrics.svg)
 
 <h3 align="center">Feeding the snake with my contribution graph</h3>
 
