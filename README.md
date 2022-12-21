@@ -39,6 +39,7 @@
   
  
 ## &#x1f4c8; GitHub Stats
+<p align="center"><img src="https://leetcard.jacoblin.cool/isko21?animation=false"></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Isko21&theme=dark" alt="isko21" /></p>
 <p align="center">
 <a href="https://github.com/Isko21/Isko21">
