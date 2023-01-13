@@ -65,3 +65,5 @@
  </p>
 
 ![Metrics](https://github.com/Isko21/Isko21/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Isko21/Isko21/blob/main/languages.svg)
+
