@@ -53,15 +53,6 @@
 <a href="https://github.com/Isko21/Isko21">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isko21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Iskhak's GitHub Stats" />
 </a>
-
-<a href="https://github.com/Isko21/Mi-raj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isko21&repo=Mi-raj&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Isko21/Halal-Scan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Isko21&repo=Halal-Scan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
  </p>
 
 ![Metrics](https://github.com/Isko21/Isko21/blob/main/github-metrics.svg)
