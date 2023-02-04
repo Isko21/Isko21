@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About me
 
-- 🔭 I’m currently **expanding my knowlege in CS** 
+- 🔭 I’m currently **expanding my knowlege in Mobile App Development(Flutter)** 
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Isko21)
 
