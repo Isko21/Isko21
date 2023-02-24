@@ -13,7 +13,7 @@ jobs:
 
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: metrics
+          committer_branch: main
           template: classic
           commits_authoring: Isko21
           config_timezone: Asia/Bishkek 
