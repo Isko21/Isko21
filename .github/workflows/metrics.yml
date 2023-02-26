@@ -1,4 +1,4 @@
-name: Metrics
+name: Update Achievements SVG
 on:
   schedule: 
     - cron: "0 18 * * *"
@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: Isko21/main@master
+      - uses: lowlighter/metrics@master
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
