@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/main@master
+      - uses: Isko21/main@master
         with:
 
           token: ${{ secrets.METRICS_TOKEN }}
