@@ -2,6 +2,7 @@
 <h3 align="center">CS student 💻, Retro Music Lover 🎵, YouTuber 🎥, and Mobile App Developer 📱</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
+<p align="center"> <img src="https://wakatime.com/badge/user/affdf2a2-1558-4732-88cf-e861d1702963.svg"/> </p>
 <p align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"></img></p>
 <p align="center">
  <a href="https://www.youtube.com/@doyourememberit">
