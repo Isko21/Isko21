@@ -3,7 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isko21&label=Profile%20views&color=0e75b6&style=flat" alt="isko21" /> </p>
 <a href="https://wakatime.com/@Isko21"><p align="center"> <img src="https://wakatime.com/badge/user/affdf2a2-1558-4732-88cf-e861d1702963.svg"/> </p></a>
-<table><tr><td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isko21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></p></td><td><p align="center"><img src="https://leetcard.jacoblin.cool/isko21?animation=true"></p></td></tr></table>
+
+| ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isko21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![LeetCard](https://leetcard.jacoblin.cool/isko21?animation=true) |
+| --- | --- |
+
 
 
 ## 👨‍💻 About me
@@ -34,12 +37,9 @@
  
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Isko21/Isko21">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Isko21&theme=dark" alt="Iskhak's GitHub Stats" />
-</a>
-<a href="https://github.com/Isko21/Isko21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isko21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Iskhak's GitHub Stats" />
-</a>
+| ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Isko21&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isko21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) |
+| --- | --- |
+
 
 ## 🗑️ Some Crazy Stuff
 
