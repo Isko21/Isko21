@@ -43,8 +43,7 @@
 
 ## 🗑️ Some Crazy Stuff
 
-|🎧 Last Played Music|✍️ Random Dev Quote|▶️ YouTube Stats|
-|---|---|---|
-|<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"/>|<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>|<img src="https://youtube-stats-card.vercel.app/api?channelid=UCKP6ezsWMNsovDGRJY0sAbQ&layout=extruded&theme=dark"/>|
-
+|🎧 Last Played Music|✍️ Random Dev Quote|
+|---|---|
+|<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"/>|<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>|
 
