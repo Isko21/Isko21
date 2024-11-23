@@ -40,10 +40,3 @@
 | ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Isko21&theme=dark) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isko21&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) |
 | --- | --- |
 
-
-## 🗑️ Some Crazy Stuff
-
-|🎧 Last Played Music|✍️ Random Dev Quote|
-|---|---|
-|<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xtorgcjmarmsvjjqu4yz6qsmv4&cover_image=true&theme=default&show_offline=false&background_color=121212"/>|<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/>|
-
